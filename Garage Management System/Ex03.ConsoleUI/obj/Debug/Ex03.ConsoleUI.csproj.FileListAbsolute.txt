@@ -1,0 +1,11 @@
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb

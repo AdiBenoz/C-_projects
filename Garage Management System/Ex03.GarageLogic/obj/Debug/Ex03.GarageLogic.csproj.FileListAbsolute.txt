@@ -1,0 +1,7 @@
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex03\הגראז שהגשנו\B19 Ex03 AyaHochberg 311357537 AdiBenoz 302340187\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
