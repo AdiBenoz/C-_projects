@@ -1,0 +1,14 @@
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojAssemblyReference.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb

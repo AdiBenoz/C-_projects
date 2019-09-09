@@ -1,0 +1,7 @@
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb

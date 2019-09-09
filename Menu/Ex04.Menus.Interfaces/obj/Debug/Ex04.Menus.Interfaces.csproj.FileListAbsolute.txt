@@ -1,0 +1,7 @@
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojAssemblyReference.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex04\B19 Ex04 AyaHochberg 311357537 AdiBenoz 302340187\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
