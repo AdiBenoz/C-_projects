@@ -1,0 +1,62 @@
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.dll
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.pdb
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.dll.config
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.InitializeNumberOfChancesForm.resources
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.CopyComplete
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.pdb
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.FormGame.resources
+C:\Users\User\source\repos\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.FormPickAColor.resources
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.dll
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.pdb
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.dll.config
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csprojAssemblyReference.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.FormGame.resources
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.FormPickAColor.resources
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.InitializeNumberOfChancesForm.resources
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.GenerateResource.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.CoreCompileInputs.cache
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.CopyComplete
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\מדעי המחשב - עדי\שנה ב'\סמסטר B\#c\Ex05\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.pdb
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.dll
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.pdb
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.dll.config
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csprojAssemblyReference.cache
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.FormGame.resources
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.FormPickAColor.resources
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.InitializeNumberOfChancesForm.resources
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.Properties.Resources.resources
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.GenerateResource.cache
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.CoreCompileInputs.cache
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.CopyComplete
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\Renana\Desktop\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.pdb
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.dll
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.pdb
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\bin\Debug\BullsAndCowsLogic.dll.config
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csprojAssemblyReference.cache
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.FormGame.resources
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.FormPickAColor.resources
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.InitializeNumberOfChancesForm.resources
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.Properties.Resources.resources
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.GenerateResource.cache
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.CoreCompileInputs.cache
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCowsUI.csproj.CopyComplete
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\Renana\Desktop\c#\BullsAndCows\B19 Ex05 Aya 311357537 Adi 302340187\BullsAndCows\obj\Debug\BullsAndCows.pdb
